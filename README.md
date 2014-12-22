@@ -32,9 +32,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-A Table of the cheiffest citties, and townes in England, as they ly [sic] from London and the distan
+
+1. A Table of the cheiffeſt Citties, and Townes in England, as they
+ly from London, and the diſtance of miles, howe a man
+may travill from London to any of them or from
+any of them to London.
+
 #####Back#####
-A Table of the cheiffest citties, and townes in England, as they ly [sic] from London and the distan
+London Printed by Walter Dight,
+at the ſigne of the Harpe in ſhoo-lane.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
